@@ -1,7 +1,7 @@
 # UK-Trains-Discord-Bot
 This bot is made for the UK Trains Discord server
 
-It offers (TOPS)[https://en.wikipedia.org/wiki/TOPS], polls, and custom commands.
+It offers [TOPS](https://en.wikipedia.org/wiki/TOPS), polls, and custom commands.
 
 Permissions required: 60480
 
