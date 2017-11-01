@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UK Trains Discord", "UK Trains Discord\UK Trains Discord.csproj", "{DB5BA136-020E-4B16-8CBE-4F22FADAF9E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5BA136-020E-4B16-8CBE-4F22FADAF9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5BA136-020E-4B16-8CBE-4F22FADAF9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5BA136-020E-4B16-8CBE-4F22FADAF9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5BA136-020E-4B16-8CBE-4F22FADAF9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC49FC5B-21D0-4061-B87F-6FC392FD7411}
+	EndGlobalSection
+EndGlobal

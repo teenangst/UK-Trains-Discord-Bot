@@ -1,0 +1,47 @@
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\UK Trains Discord.exe.config
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\UK Trains Discord.exe
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\UK Trains Discord.pdb
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Newtonsoft.Json.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Newtonsoft.Json.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\obj\Debug\UK Trains Discord.csprojResolveAssemblyReference.cache
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\obj\Debug\UK Trains Discord.csproj.CoreCompileInputs.cache
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\obj\Debug\UK Trains Discord.exe
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\obj\Debug\UK Trains Discord.pdb
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Commands.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Core.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Rest.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Rpc.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Webhook.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.WebSocket.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Microsoft.Win32.Primitives.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.AppContext.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Collections.Immutable.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Console.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Globalization.Calendars.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Interactive.Async.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.IO.Compression.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.IO.Compression.ZipFile.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.IO.FileSystem.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Net.Http.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Net.Sockets.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Xml.ReaderWriter.dll
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Commands.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Core.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Rest.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Rpc.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.Webhook.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Discord.Net.WebSocket.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Collections.Immutable.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Interactive.Async.xml
