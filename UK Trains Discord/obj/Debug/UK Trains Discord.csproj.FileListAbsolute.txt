@@ -45,3 +45,49 @@ c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Train
 c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Collections.Immutable.xml
 c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 c:\users\finley\documents\visual studio 2017\Projects\UK Trains Discord\UK Trains Discord\bin\Debug\System.Interactive.Async.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\UK Trains Discord.exe.config
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\UK Trains Discord.exe
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Core.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Rpc.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.AppContext.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Console.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Interactive.Async.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.IO.Compression.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Net.Http.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Net.Sockets.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Core.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Rpc.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\bin\Debug\System.Interactive.Async.xml
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\obj\Debug\UK Trains Discord.csprojResolveAssemblyReference.cache
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\obj\Debug\UK Trains Discord.csproj.CoreCompileInputs.cache
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\obj\Debug\UK Trains Discord.exe
+C:\Users\Finley\Documents\GitHub\UK-Trains-Discord-Bot\UK Trains Discord\obj\Debug\UK Trains Discord.pdb

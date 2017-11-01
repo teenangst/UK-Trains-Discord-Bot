@@ -23,18 +23,18 @@ namespace UK_Trains_Discord
 
         public static void tryRemoveCommand(string command)
         {
-            if (commands.ContainsKey(command))
+            if (commands.ContainsKey(command.ToLower()))
             {
-                commands.Remove(command);
+                commands.Remove(command.ToLower());
                 save();
             }
         }
 
         public static void tryChangeCommand(string command, string output, out bool changed)
         {
-            if (commands.ContainsKey(command))
+            if (commands.ContainsKey(command.ToLower()))
             {
-                commands[command] = output;
+                commands[command.ToLower()] = output;
                 save();
                 changed = true;
             }
